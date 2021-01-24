@@ -14,7 +14,7 @@ I see myself as a curiosity-driven autodidact and a passionate learner.
 In the last 5+ years I've been focusing on the frontend side of web development and I'm sure I've found my passion. For me it is really exciting to build code that represents a beautiful, pixel perfect User Interface, keeping in mind a well grounded User Experience. But don't get me wrong... It excites me as much [design|produc]ing off-screen code, playing with computing fundamentals (data structures, well known algorithms...).
 I easily fall in love with designing awesome software architectures (reusable, maintainable, easy to evolve building blocks, etc.), mainly when it involves a lot of learning in the process, that keeps me g[row]oing.
 
-- _I’m currently working_ on my very own [React UI component library](https://github.com/cheesebit/ui);
+- _I’m currently working_ on my very own [React UI component library](https://github.com/cheesebit/ui) **just for fun**;
 - I’m currently learning about User Experience and strengthening my Javascript skills (it's amazing how you *always* learn something new!).
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
