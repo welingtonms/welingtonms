@@ -11,11 +11,12 @@ During my earliest years as a Software Engineer, I got my MSc. degree, researchi
 
 I see myself as a curiosity-driven autodidact and a passionate learner.
 
-In the last 6+ years, I've been focusing on web development's frontend side, and I'm sure I've found my passion. For me, it is fascinating to build code that represents a beautiful, pixel-perfect User Interface, keeping in mind a well-grounded User Experience. But don't get me wrong; it excites me as much [design|produc]ing off-screen code, playing with computing fundamentals (data structures, well-known algorithms...).
+In the last 6+ years, I've been focusing on web development's front-end side, and I'm sure I've found my passion. For me, it is fascinating to build code that represents a beautiful, pixel-perfect User Interface, keeping in mind a well-grounded User Experience. But don't get me wrong; it excites me as much [design|produc]ing off-screen code, playing with computing fundamentals (data structures, well-known algorithms...).
 I easily fall in love with designing incredible software architectures (reusable, maintainable, easy to evolve building blocks, etc.), mainly when it involves a lot of learning in the process. That keeps me g[row]oing.
 
 - _I’m currently working_ on my very own [React UI component library](https://github.com/cheesebit/ui) **just for fun**;
-- I’m currently learning about User Experience and strengthening my Javascript skills (it's amazing how you *always* learn something new!).
+- I’m constantly strengthening my programming skills (it's amazing how you *always* learn something new!);
+- I'm currently working on my [Algorithms and Data Structures Specializations](https://www.coursera.org/specializations/data-structures-algorithms), just because I love the subject.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
