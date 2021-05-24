@@ -15,7 +15,7 @@ In the last 6+ years, I've been focusing on web development's front-end side, an
 I easily fall in love with designing incredible software architectures (reusable, maintainable, easy to evolve building blocks, etc.), mainly when it involves a lot of learning in the process. That keeps me g[row]oing.
 
 - _I’m currently working_ on my very own [React UI component library](https://github.com/cheesebit/ui) **just for fun**;
-- I’m constantly strengthening my programming skills (it's amazing how you *always* learn something new!);
+<!--- I’m constantly strengthening my programming skills (it's amazing how you *always* learn something new!); -->
 - I'm currently working on my [Algorithms and Data Structures Specializations](https://www.coursera.org/specializations/data-structures-algorithms), just because I love the subject.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
